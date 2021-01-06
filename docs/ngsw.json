@@ -1,0 +1,96 @@
+{
+  "configVersion": 1,
+  "timestamp": 1609946115940,
+  "index": "https://github.com/jdrag12/PAC5-photos/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/jdrag12/PAC5-photos/favicon.ico",
+        "https://github.com/jdrag12/PAC5-photos/index.html",
+        "https://github.com/jdrag12/PAC5-photos/main-es2015.1c070a06c59d84b947ff.js",
+        "https://github.com/jdrag12/PAC5-photos/main-es5.1c070a06c59d84b947ff.js",
+        "https://github.com/jdrag12/PAC5-photos/manifest.webmanifest",
+        "https://github.com/jdrag12/PAC5-photos/polyfills-es2015.f332a089ad1600448873.js",
+        "https://github.com/jdrag12/PAC5-photos/polyfills-es5.177e85a9724683782539.js",
+        "https://github.com/jdrag12/PAC5-photos/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "https://github.com/jdrag12/PAC5-photos/runtime-es5.0dae8cbc97194c7caed4.js",
+        "https://github.com/jdrag12/PAC5-photos/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/jdrag12/PAC5-photos/assets/css/animate.css",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-128x128.png",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-144x144.png",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-152x152.png",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-192x192.png",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-384x384.png",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-512x512.png",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-72x72.png",
+        "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-96x96.png"
+      ],
+      "patterns": [
+        "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0-beta1\\/dist\\/css\\/bootstrap\\.min\\.css"
+      ]
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "images-api",
+      "patterns": [
+        "https:\\/\\/picsum\\.photos\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 10,
+      "maxAge": 3600000,
+      "timeoutMs": 0,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://github.com/jdrag12/PAC5-photos/assets/css/animate.css": "1d5c16e4a56f56ceeff595897da8673875104012",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/jdrag12/PAC5-photos/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/jdrag12/PAC5-photos/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/jdrag12/PAC5-photos/index.html": "023751676f41729147570c01f445c6d5dea0f07e",
+    "https://github.com/jdrag12/PAC5-photos/main-es2015.1c070a06c59d84b947ff.js": "ea962c34154975540db7e1d8504ee31708ca5b29",
+    "https://github.com/jdrag12/PAC5-photos/main-es5.1c070a06c59d84b947ff.js": "0e587d116eff14c14ba0c14afb0fdae29446e0d5",
+    "https://github.com/jdrag12/PAC5-photos/manifest.webmanifest": "9e48cc91f55bc6823cd71294536152856478f112",
+    "https://github.com/jdrag12/PAC5-photos/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://github.com/jdrag12/PAC5-photos/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "https://github.com/jdrag12/PAC5-photos/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/jdrag12/PAC5-photos/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/jdrag12/PAC5-photos/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
